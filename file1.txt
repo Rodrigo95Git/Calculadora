@@ -1,1 +1,1 @@
-creamos archivo 1 en rama nueva
+modificamos archivo 1 mandado desde servidor y volvemos a mandar al servidor de Git
